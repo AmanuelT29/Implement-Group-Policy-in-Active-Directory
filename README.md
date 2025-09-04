@@ -9,7 +9,7 @@
 
 ## Objective
 
-In this project, I demonstrate how to implement a Group Policy Object (GPO) in Active Directory to enforce specific security settings. Group Policy is one of the most efficient methods to centrally manage and enforce policies across user groups within an organization.
+In this project, I demonstrate how to implement a Group Policy in Active Directory to enforce specific security settings. Group Policy is one of the most efficient methods to centrally manage and enforce policies across user groups within an organization.
 
 -----
 
