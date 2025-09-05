@@ -15,10 +15,6 @@
 
 In this project, I will demonstrate how I implemented a Group Policy in Active Directory to enforce specific security settings. Group Policy is one of the most efficient methods to centrally manage and enforce policies across user groups within an organization.
 
------
-
-## Scenario
-
 For this project, I created a GPO that disables access to the **Task Manager** for members of the **HR** group. This group consists of three users: **Nathan, Pipa, and Tsehay**. By enabling the **Remove Task Manager** policy setting and linking it to the HR group, these users are prevented from opening or using **Task Manager**:
 
 <img width="300" alt="Capture 0" src="https://github.com/user-attachments/assets/473e6045-9e7e-4de9-8ed1-126be02e40f8" />
